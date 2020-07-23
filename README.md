@@ -6,4 +6,3 @@
 - 💬 Ask me about ... anything 😎
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/adrsh23/)
 - ⚡ Fun fact: ...  I Love new technologies and integrating them.. 💻
--->
