@@ -8,7 +8,6 @@
 - ⚡ Fun fact: ...  I Love new technologies and integrating them.. 💻
 
 
-![meliodas](https://user-images.githubusercontent.com/64307702/90311880-66cd5600-df1d-11ea-9837-f5f4c3978383.gif)
 
 
 
