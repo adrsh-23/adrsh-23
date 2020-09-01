@@ -1,17 +1,1 @@
-### Hi there 👋 Welcome to my Profile!
-
-- 🔭 I’m currently working on ... App Development
-- 🌱 I’m currently learning ... Flutter 
-- 🤔 I’m looking for help with ... nothing currently
-- 💬 Ask me about ... anything 😎
-- 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/adrsh23/)
-- ⚡ Fun fact: ...  I Love new technologies and integrating them.. 💻
-
-
-
-
-
-
-
-
-
+![hellblaze](https://user-images.githubusercontent.com/64307702/91900977-201d8100-ecbd-11ea-8bac-7843ce2c07f9.gif)
