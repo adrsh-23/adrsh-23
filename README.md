@@ -24,6 +24,8 @@
 ![Django](https://img.shields.io/badge/-Django-563D7C?style=flat-square&logo=django)
 ![Flutter](https://img.shields.io/badge/-Flutter-563D7C?style=flat-square&logo=flutter)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-563D7C?style=flat-square&logo=react)
+
 
 ### Databases :
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
