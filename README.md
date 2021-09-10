@@ -11,7 +11,7 @@
 
 ## ⚡ Technologies
 
-### Language :
+### Languages :
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Python](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-### Libraries & Framework :
+### Libraries & Frameworks :
 
 ![Django](https://img.shields.io/badge/-Django-563D7C?style=flat-square&logo=django)
 ![Flutter](https://img.shields.io/badge/-Flutter-563D7C?style=flat-square&logo=flutter)
