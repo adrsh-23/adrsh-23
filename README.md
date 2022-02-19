@@ -5,6 +5,7 @@
 [![Codechef Badge](https://img.shields.io/badge/-adrsh23-brown?style=flat-square&logo=codechef&logoColor=white&link=https://www.codechef.com/users/adrsh23)](https://www.codechef.com/users/adrsh23)
 [![Hackerrank Badge](https://img.shields.io/badge/-adrsh23-purple?style=flat-square&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/adrsh23)](https://www.hackerrank.com/adrsh23)
 [![Stackoverflow Badge](https://img.shields.io/badge/-adrsh23-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/13587987/adrsh23)](https://stackoverflow.com/users/13587987/adrsh23)
+[![LeetCode Badge](https://img.shields.io/badge/-adrsh23-green?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/adrsh23/)](https://leetcode.com/adrsh23/)
 
 [![Adarsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=adrsh-23&theme=xcode)](https://git.io/adrsh-23)
 
