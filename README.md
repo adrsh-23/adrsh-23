@@ -14,11 +14,11 @@
 
 ### Languages :
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Python](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart)
+<!-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) -->
+<!-- ![Python](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=Dart) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<!-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) -->
 
 ### Libraries & Frameworks :
 
@@ -35,7 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Heroku](https://img.shields.io/badge/-AWS-430098?style=flat-square&logo=amazon-aws)
+<!-- ![Heroku](https://img.shields.io/badge/-AWS-430098?style=flat-square&logo=amazon-aws) -->
 
 
 ## 📈 Stats
@@ -46,4 +46,4 @@
 </p>
 
 
-# Portfolio - [Click Here](https://adarsh-portfolio.vercel.app/)
+<!-- # Portfolio - [Click Here](https://adarsh-portfolio.vercel.app/) -->
